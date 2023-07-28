@@ -1,0 +1,14 @@
+trainer:
+  batch_size: 8
+  max_epochs: 0
+  num_workers: 2
+  m: 0.99
+  img_save_path: '/home/upc/project_0/unpairedDerain/unfolding_l/imgs'
+  weights_save_path: '/home/upc/project_0/unpairedDerain/unfolding_l/weights'
+
+optimizer:
+  params:
+    lr: 0.0002
+    #momentum: 0.99
+    weight_decay: 0.000001
+
