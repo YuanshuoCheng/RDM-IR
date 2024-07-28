@@ -1,6 +1,5 @@
-# DRM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration(in submission)
+# RDM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration(in submission)
 Official PyTorch implementation of DRM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration.
-[[Paper]](https://arxiv.org/abs/2307.07688)
 >The complete code will be open source in this repository.
 
 
